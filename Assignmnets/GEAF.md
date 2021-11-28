@@ -25,7 +25,7 @@ The value of reference models comes from applying them as part of business as us
 - Interoperable: Design services for interoperability using applicable standards so that systems can work together to deliver more integrated servicesthrough a common data exchange platform
 - Design  for  future:Prepare  Government  services  for  disruptive  technologies  and  emerging trends
 
-Assignment Submission Date: 258 Nov 2021
+Assignment Submission Date: 28 Nov 2021
 
 Assignment Deadline: 28 Nov 2021 (Sunday)
 
